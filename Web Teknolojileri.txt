@@ -1,0 +1,106 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title> Selam </title>
+</head>
+<body>
+</body>
+</html>
+
+<p> </p> paragraf
+
+<a> </a> linkleme
+href ile gideceği linkleme
+ 
+<img src=   />
+src
+alt
+height
+wegiht
+
+
+<br /> alt satır
+
+Başlık etiketlri 
+
+<h1> ... </h1>
+<div>.... </div>
+
+<meta> </meta>3
+
+Lab1
+
+<html>
+	<head>
+		<title>
+			İlk HTML Sayfam
+		</title>
+	</head>
+	<body>
+		<p>
+
+		Merhaba Ben Batuhan ÇAR
+
+		</p>
+	</body>
+</html>
+
+Lab 2
+<html>
+	<head>
+		<title>
+		İkinci HTML Sayfam
+		</title>
+	</head>
+	<body>
+		<p>
+		Bugün Perşembe Günüdür
+		</br>
+		Tarih ise 10 Mart 2022'dir
+		</p>
+	</body>
+</html>
+
+Lab3
+<html>
+	<head>
+		<title>
+		Başlıklar
+		</title>
+	</head>
+	<body>
+		<h1>
+		Ben
+		</h1>
+		<h3>
+		Ahmet Anıl
+		</h3>
+		<h2>
+		Müngen
+		</h2>
+		<p>
+		Ben <i>HTML</i> Öğreniyorum
+		</br>
+		Bu benim <b>ilk<sub>dersteki</sub></b> html kdomudur.
+		</p>
+	</body>
+</html>
+
+Lab 4
+<html>
+	<head>
+		<title>
+		Mustafa Kemal Atatürk
+		</title>
+	</head>
+	<body>
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ataturk1930s.jpg/330px-Ataturk1930s.jpg" />
+		<p> <blockquote> <i> Yurtta sulh , cihanda sulh </i> </blockquote> 
+		</br>
+		Wikipedia <i>Mustafa Kemal Atatürk</i> Sayfası için 
+			<a href ="https://tr.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk" target="_blank" > Tıklayın </a>
+		</p>
+	</body>
+</html>
+
+
